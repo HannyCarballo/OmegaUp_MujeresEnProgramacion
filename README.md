@@ -1,4 +1,4 @@
-# Omega-up
+# OmegaUp
 
 ### ¿Qué es "Mujeres en Programación" de omegaUp?
 Comunidad donde se organizan cursos, conferencias y concursos de programación sólo para mujeres.
