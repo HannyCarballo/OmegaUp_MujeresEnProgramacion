@@ -7,6 +7,6 @@ Comunidad donde se organizan cursos, conferencias y concursos de programación s
 </p>
 
 ### Funciones y recursión 
-- Funciones
-- Recursión
-  i. [Factorial de un número](https://github.com/HannyCarballo/OmegaUp_MujeresEnProgramacion/tree/master/Funciones%20y%20recursi%C3%B3n/Recursi%C3%B3n/E1)
+#### Funciones
+#### Recursión
+- [Factorial de un número](https://github.com/HannyCarballo/OmegaUp_MujeresEnProgramacion/tree/master/Funciones%20y%20recursi%C3%B3n/Recursi%C3%B3n/E1)
