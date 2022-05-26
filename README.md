@@ -8,6 +8,9 @@ Comunidad donde se organizan cursos, conferencias y concursos de programación s
 
 ### Funciones y recursión 
 ##### Funciones
+- [Números amigos]()
+- [Extremos de 
+
 ##### Recursión
 - [Factorial de un número](https://github.com/HannyCarballo/OmegaUp_MujeresEnProgramacion/tree/master/Funciones%20y%20recursi%C3%B3n/Recursi%C3%B3n/E1)
 - [Fibonacci](https://github.com/HannyCarballo/OmegaUp_MujeresEnProgramacion/tree/master/Funciones%20y%20recursi%C3%B3n/Recursi%C3%B3n/E2)
