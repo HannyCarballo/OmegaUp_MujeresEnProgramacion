@@ -8,6 +8,11 @@ Comunidad donde se organizan cursos, conferencias y concursos de programación s
 
 ### Matemáticas y programación
 #### Módulos
+- [último día del mes]()
+- [Practicando operaciones]()
+- [Resultado de la calculadora]()
+- [Recital]()
+
 #### Series
 #### mcm y mcd
 
