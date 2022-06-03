@@ -6,6 +6,16 @@ Comunidad donde se organizan cursos, conferencias y concursos de programación s
 <img width="150" alt="image" src="https://user-images.githubusercontent.com/89166148/169929338-786b151a-e014-4aeb-b4e2-e10042189b25.png">
 </p>
 
+### Matemáticas y programación
+#### Módulos
+- [Último día del mes]()
+- [Practicando operaciones]()
+- [Resultado de la calculadora]()
+- [Recital]()
+
+#### Series
+#### mcm y mcd
+
 ### Funciones y recursión 
 ##### Funciones
 - [Números amigos]()
