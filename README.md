@@ -6,7 +6,7 @@ Comunidad donde se organizan cursos, conferencias y concursos de programación s
 <img width="150" alt="image" src="https://user-images.githubusercontent.com/89166148/169929338-786b151a-e014-4aeb-b4e2-e10042189b25.png">
 </p>
 
-### Matemáticas y programación
+### Matemáticas y programación [más info aquí](https://www.canva.com/design/DAFCgvTpNHA/EDgb-cHhHr4yIfY-iSuy-Q/view?utm_content=DAFCgvTpNHA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 #### Módulos
 - [Último día del mes]()
 - [Practicando operaciones]()
