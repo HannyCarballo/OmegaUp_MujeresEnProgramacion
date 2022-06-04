@@ -18,12 +18,12 @@ Comunidad donde se organizan cursos, conferencias y concursos de programación s
 #### Concurso
 
 ### Funciones y recursión 
-##### Funciones
+#### Funciones
 - [Números amigos]()
 - [Extremos de una función cúbica]()
 - [Mínimo común múltiplo de varios enteros]()
 
-##### Recursión
+#### Recursión
 - [Factorial de un número](https://github.com/HannyCarballo/OmegaUp_MujeresEnProgramacion/tree/master/Funciones%20y%20recursi%C3%B3n/Recursi%C3%B3n/E1)
 - [Fibonacci](https://github.com/HannyCarballo/OmegaUp_MujeresEnProgramacion/tree/master/Funciones%20y%20recursi%C3%B3n/Recursi%C3%B3n/E2)
 
