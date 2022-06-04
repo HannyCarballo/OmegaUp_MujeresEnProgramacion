@@ -15,6 +15,7 @@ Comunidad donde se organizan cursos, conferencias y concursos de programación s
 
 #### Series
 #### mcm y mcd
+#### Concurso
 
 ### Funciones y recursión 
 ##### Funciones
