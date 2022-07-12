@@ -7,12 +7,12 @@ Comunidad donde se organizan cursos, conferencias y concursos de programación s
 </p>
 
 ### Matemáticas y programación 
-#### Módulos [[más info aquí]](https://www.canva.com/design/DAFCgvTpNHA/EDgb-cHhHr4yIfY-iSuy-Q/view?utm_content=DAFCgvTpNHA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-#### Series
-#### mcm y mcd
-#### Concurso
+- Módulos [[más info aquí]](https://www.canva.com/design/DAFCgvTpNHA/EDgb-cHhHr4yIfY-iSuy-Q/view?utm_content=DAFCgvTpNHA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- Series
+- mcm y mcd
+- Concurso
 
 ### Funciones y recursión 
-#### Funciones
-#### Recursión
-#### Concurso
+- Funciones
+- Recursión
+- Concurso
