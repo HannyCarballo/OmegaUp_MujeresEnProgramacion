@@ -8,24 +8,11 @@ Comunidad donde se organizan cursos, conferencias y concursos de programación s
 
 ### Matemáticas y programación 
 #### Módulos [[más info aquí]](https://www.canva.com/design/DAFCgvTpNHA/EDgb-cHhHr4yIfY-iSuy-Q/view?utm_content=DAFCgvTpNHA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-- [Último día del mes]()
-- [Practicando operaciones]()
-- [Resultado de la calculadora]()
-- [Recital]()
-
 #### Series
 #### mcm y mcd
 #### Concurso
 
 ### Funciones y recursión 
 #### Funciones
-- [Números amigos]()
-- [Extremos de una función cúbica]()
-- [Mínimo común múltiplo de varios enteros]()
-
 #### Recursión
-- [Factorial de un número](https://github.com/HannyCarballo/OmegaUp_MujeresEnProgramacion/tree/master/Funciones%20y%20recursi%C3%B3n/Recursi%C3%B3n/E1)
-- [Fibonacci](https://github.com/HannyCarballo/OmegaUp_MujeresEnProgramacion/tree/master/Funciones%20y%20recursi%C3%B3n/Recursi%C3%B3n/E2)
-
-
 #### Concurso
